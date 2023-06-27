@@ -43,3 +43,7 @@ const randomMessage = (age, income, netWorth) =>{
  
 
 }
+randomMessage (age, income, netWorth)
+
+
+
